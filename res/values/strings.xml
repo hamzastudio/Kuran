@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kur\'an na bosanskom</string>
+    <string name="sure_lista">Sure</string>
+    <string name="action_settings">Settings</string>
+    <string name="next_button">Sljedeći</string>
+    <string name="preview_button">Prethodni</string>
+    <string name="sure_button">Sure</string>
+    <string name="favoriti_button">Favoriti</string>
+    <string name="broj_ajeta_za_prikaz">Broj prikazanih ajeta</string>
+    <string name="broj_ajeta">Ajet broj</string>
+    <string name="bismila">U ime Allaha, Milostivog, Samilosnog</string>
+    <string name="kviz_button">Kviz</string>
+    <string name="fenomeni_button">Kur\'anski fenomeni</string>
+    <string name="pretraga_button">Pretraga</string>
+	<string name="ikre">Čitaj, u ime Gospodara tvoga, koji stvara, stvara čovjeka od ugruška! (El-\'Alek,1-2)</string>
+
+</resources>
